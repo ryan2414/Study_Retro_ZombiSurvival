@@ -66,16 +66,16 @@
     <Compile Include="Assets\Scripts\LivingEntity.cs" />
     <Compile Include="Assets\Scripts\ItemSpawner.cs" />
     <Compile Include="Assets\Scripts\Coin.cs" />
+    <Compile Include="Assets\Scripts\ZombieData.cs" />
     <Compile Include="Assets\Scripts\Rotator.cs" />
     <Compile Include="Assets\Scripts\PlayerInput.cs" />
     <Compile Include="Assets\Scripts\PlayerShooter.cs" />
     <Compile Include="Assets\Scripts\GunData.cs" />
+    <Compile Include="Assets\Scripts\Zombie.cs" />
     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\UIManager.cs" />
     <Compile Include="Assets\Scripts\AmmoPack.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
-    <Compile Include="Assets\Scripts\Zombie.cs" />
-    <Compile Include="Assets\Scripts\ZombieData.cs" />
     <Compile Include="Assets\Scripts\ZombieSpawner.cs" />
   </ItemGroup>
   <ItemGroup>
