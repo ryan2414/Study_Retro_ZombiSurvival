@@ -28,6 +28,7 @@
 -define:PLATFORM_ARCH_64
 -define:UNITY_64
 -define:UNITY_INCLUDE_TESTS
+-define:UNITY_ANALYTICS
 -define:USE_SEARCH_ENGINE_API
 -define:USE_SEARCH_TABLE
 -define:USE_SEARCH_MODULE
@@ -362,6 +363,7 @@
 "Assets/Scripts/EnemySpawner.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/Gun.cs"
+"Assets/Scripts/GunData.cs"
 "Assets/Scripts/HealthPack.cs"
 "Assets/Scripts/IDamageable.cs"
 "Assets/Scripts/IItem.cs"
@@ -373,6 +375,9 @@
 "Assets/Scripts/PlayerShooter.cs"
 "Assets/Scripts/Rotator.cs"
 "Assets/Scripts/UIManager.cs"
+"Assets/Scripts/Zombie.cs"
+"Assets/Scripts/ZombieData.cs"
+"Assets/Scripts/ZombieSpawner.cs"
 -langversion:9.0
 
 /deterministic
